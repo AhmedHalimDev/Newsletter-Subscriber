@@ -1,0 +1,16 @@
+com\newsletter\sub\datatransferobject\SubscriberDTO.class
+com\newsletter\sub\controller\mapper\SubscriberMapper.class
+com\newsletter\sub\controller\SubscriptionController.class
+com\newsletter\sub\NewsletterSubscriber.class
+com\newsletter\sub\exception\EntityAlreadyUnSubscribedException.class
+com\newsletter\sub\exception\EntityNotFoundException.class
+com\newsletter\sub\service\impl\NewsletterServiceImpl.class
+com\newsletter\sub\controller\HomeController.class
+com\newsletter\sub\service\NewsletterService.class
+com\newsletter\sub\datatransferobject\SubscriberDTO$SubscriberDTOBuilder.class
+com\newsletter\sub\config\ApplicationConfig.class
+com\newsletter\sub\config\BasicAuthenticationPoint.class
+com\newsletter\sub\datatransferobject\SubscriberDTO$1.class
+com\newsletter\sub\dataaccessobject\SubscriberRepository.class
+com\newsletter\sub\domainobject\SubscriberDO.class
+com\newsletter\sub\exception\EntityAlreadySubscribedException.class

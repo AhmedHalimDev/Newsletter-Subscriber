@@ -1,0 +1,14 @@
+E:\workspace\newslettersubscriber\src\main\java\com\newsletter\sub\exception\EntityNotFoundException.java
+E:\workspace\newslettersubscriber\src\main\java\com\newsletter\sub\datatransferobject\SubscriberDTO.java
+E:\workspace\newslettersubscriber\src\main\java\com\newsletter\sub\exception\EntityAlreadySubscribedException.java
+E:\workspace\newslettersubscriber\src\main\java\com\newsletter\sub\service\impl\NewsletterServiceImpl.java
+E:\workspace\newslettersubscriber\src\main\java\com\newsletter\sub\config\BasicAuthenticationPoint.java
+E:\workspace\newslettersubscriber\src\main\java\com\newsletter\sub\NewsletterSubscriber.java
+E:\workspace\newslettersubscriber\src\main\java\com\newsletter\sub\domainobject\SubscriberDO.java
+E:\workspace\newslettersubscriber\src\main\java\com\newsletter\sub\controller\mapper\SubscriberMapper.java
+E:\workspace\newslettersubscriber\src\main\java\com\newsletter\sub\config\ApplicationConfig.java
+E:\workspace\newslettersubscriber\src\main\java\com\newsletter\sub\controller\HomeController.java
+E:\workspace\newslettersubscriber\src\main\java\com\newsletter\sub\exception\EntityAlreadyUnSubscribedException.java
+E:\workspace\newslettersubscriber\src\main\java\com\newsletter\sub\service\NewsletterService.java
+E:\workspace\newslettersubscriber\src\main\java\com\newsletter\sub\controller\SubscriptionController.java
+E:\workspace\newslettersubscriber\src\main\java\com\newsletter\sub\dataaccessobject\SubscriberRepository.java
