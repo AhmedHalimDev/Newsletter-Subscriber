@@ -1,4 +1,4 @@
-# Eurowings-Newsletter-Subscription
+# Newsletter-Subscription
 -----------------------------------
 The project provides a RESTful API to manage the newsletter subscription service.
 
